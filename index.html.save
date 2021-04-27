@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>Hello world!</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+<h1> Hello World!</h1>
+<div><img src="/home/akshay/Pictures/pic.png" alt="image" style="width: 100%;max-width:
+<p> This is the first line of my projet.</p>
+<p> A new LIne.</p>
+</body>
+<html>
+
